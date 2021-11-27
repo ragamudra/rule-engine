@@ -1,0 +1,24 @@
+word,word2,class,type,window
+check in,none,check in,single,-1
+checkin,none,check in,single,-1
+checking in,none,check in,single,-1
+bag,none,baggage,single,-1
+luggage,none,baggage,single,-1
+bags,none,baggage,single,-1
+check me in,none,check in,single,-1
+how,carry,baggage,double,-1
+check,in,check in,double,1
+login,none,login,single,-1
+password,none,login,single,-1
+hi,mam,greetings,double,1
+good,morning,greetings,double,1
+good,evening,greetings,double,1
+good,afternoon,greetings,double,1
+hi,sir,greetings,double,1
+hello,mam,greetings,double,1
+hello,sir,greetings,double,1
+cancel,none,cancel,single,-1
+kg,none,baggage,single,-1
+hi,none,greetings,single,-1
+hey,none,greetings,single,-1
+thank,none,thanks,single,-1
